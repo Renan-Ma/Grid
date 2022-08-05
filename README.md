@@ -1,4 +1,7 @@
-# 💻Projeto Lobo Cinza
+# 💻 Projeto Lobo Cinza
+
+### :dart: Objetivo do projeto
+Criar uma pagina utilizando CSS Grid.
 
 ## 🔗 Link Projeto
 Acesse a página  [clicando aqui](http://grid-renan.surge.sh/).
